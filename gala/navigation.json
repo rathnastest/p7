@@ -1,0 +1,20 @@
+{
+  "schemaId": "urn:gala:schema:navigation:2.0.0",
+  "schemaVersion": "2.0.0",
+  "items": [
+    {
+      "type": "internal",
+      "label": "Home",
+      "route": "/welcome-to-your-publication",
+      "children": []
+    },
+    {
+      "type": "internal",
+      "label": "About",
+      "route": "/about",
+      "children": []
+    }
+  ],
+  "footerItems": [],
+  "extensions": {}
+}
